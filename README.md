@@ -1,7 +1,7 @@
 # Sentiment_Analysis
 Basic sentiment analysis and binary classification (positive or negative) of an Amazon review dataset, comparing both RNN and Naive Bayes approaches 
 
-** Comparing both approaches: 
+* Comparing both approaches: 
 The RNN approach had a best model accuracy of 86.5%, but had signifigantly slower speed. On the other hand, the Naive Bayes approach had a best model accuracy of 83.5%, but was extremely fast. While RNN is a bit more accurate, the Naive Bayes is the algorithm I would use in real life due to its much lower processing time, import in domains like mobile app development. RNN probably derives its improved performance from the LSTM unit used, which provides a level of memory and context to data. 
 
 ** Recurrent Neural Network & Long Short-Term Memory
